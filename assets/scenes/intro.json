@@ -1,10 +1,10 @@
 {
     "name": "Intro",
-    "description": "This is a tiny demonstration game, illustrating the capabilities of the tajs framework. As the framework is expanded, new features may appear in this game. It also serves developers as an example how to structure a game with tajs.<br><br>When you are ready to start the game, simply click (or tap!) the option below.<br><br>Warning: Gore and Death",
+    "description": "LD 35 placeholder name.<br><br>Welcome to a strange and bla bla bla bla.<br><br>This game unfortunately cannot be saved. Reloading the page will reset the game.",
     "options": [
         {
-            "text": "Start demo",
-            "proceed": "test_scene/test_scene"
+            "text": "Start game",
+            "proceed": "nothing yet"
         }
     ]
 }
