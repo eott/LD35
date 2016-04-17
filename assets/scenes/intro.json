@@ -1,6 +1,6 @@
 {
     "name": "Intro",
-    "description": "LD 35 placeholder name.<br><br>Welcome to a strange and bla bla bla bla.<br><br>This game unfortunately cannot be saved. Reloading the page will reset the game.",
+    "description": "<strong>Four Horsemen: Chapter 1</strong><br><br>Welcome to Earth, only somewhat in the future and a lot worse for the wear. This interactive fiction, technically a game, tells the story of... well, that would be a spoiler. I guess you have to play it to find out. I made the first chapter for the Ludum Dare 35 game jam. I hope that someday I will write a second chapter and maybe more. There is a story to tell, you know. Anyway, I hope you have a bit of fun with this.<br><br>Warnings: Not suited for children. Themes of death and graphic violence.<br><br>This game unfortunately cannot be saved. Reloading the page will reset the game.",
     "options": [
         {
             "text": "Start game",
