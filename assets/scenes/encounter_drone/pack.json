@@ -1,0 +1,10 @@
+{
+    "name": "encounter_drone/pack",
+    "description": "You grab your backpack and stuff your laptop in it. You also look for your good jeans, a pair of t-shirts, underwear, a thick sweater. Continuing to the kitchen, you grab any durable food you can find and lastly grab some essentials from the bathroom.<br/><br/>With a full backpack you start for the door, when you hear a knock on the door.",
+    "options": [
+        {
+            "text":"Stay silent",
+            "proceed":"encounter_drone/trapped"
+        }
+    ]
+}

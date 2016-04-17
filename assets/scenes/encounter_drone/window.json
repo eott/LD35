@@ -1,0 +1,14 @@
+{
+    "name": "encounter_drone/window",
+    "description": "You open the window once the police car has moved out of view. Below the window is a fire exit, but it looks worse than you remember, with plenty of rust and loose bolts.<br/><br/>You carefully lower one leg down on the floor and put some weight on it. It creaks and you hear something crack. You are not sure if it can take your entire weight.",
+    "options": [
+        {
+            "text":"Climb back inside",
+            "proceed":"encounter_drone/window_back"
+        },
+{
+            "text":"Continue down",
+            "proceed":"encounter_drone/window_fall"
+        }
+    ]
+}

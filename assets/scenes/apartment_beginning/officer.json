@@ -1,0 +1,18 @@
+{
+    "name": "apartment_beginning/officer",
+    "description": "You agree to answer the officer's questions. He asks if you know anything about your upstairs neighbor (you don't), about the comings and goings in the building (of which you are unaware) and your favorite kind of lollipop (cherry).<br/>At the last answer the officer slighty narrows his eyes and says \"You previously answered strawberry to this question. I am required to inform you that this has raised your suspicion level to seven.\"<br/><br/>After the officer concluded the interview and returns to his collegues you refrain from slamming the door in his back and close the door with a trembling fist in the other hand. Stupid sheep! Like you can remember some stupid answer you gave to a stupid question months ago! The last thing you need right now is the Inquisition on your tail. It's bad enough level six lands you on the surveillance list for Beholder drones. Now you can look forward to \"random\" searches from nosy pricks with grabby hands.<br/><br/>Still fuming you decide to go for a walk. Walking always calms you down, unless it doesn't. But at least walking is doing something instead of sitting around waiting for the world to care, which it doesn't.",
+    "options": [
+        {
+            "text":"Walk downtown along the street",
+            "proceed":"walk/street"
+        },
+{
+            "text":"Walk downtown through the park",
+            "proceed":"walk/park"
+        },
+{
+            "text":"Go exploring the abandoned factory complex",
+            "proceed":"walk/factory"
+        }
+    ]
+}

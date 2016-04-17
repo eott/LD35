@@ -1,0 +1,10 @@
+{
+    "name": "walk/underpass",
+    "description": "As you walk through the underpass you begin to shiver. You're wearing a thick coat and the winters have become mild, but still you freeze. This feeling of cold is strengthened by the poor lighting in the underpass.<br/><br/>In fact, it seems to get dimmer by the second. You look around, but there is noone else.<br/><br/>The light coming in from both ends weakens further, enveloping the inner part into darkness.<br/><br/>You panick and run for the exit on the downtown side, but your legs seem be unusually heavy today. You barely make progress before it is completely dark around you. You stumble further, but stop before you're running into the walls.<br/><br/>You have no idea what kind of demon could produce darkness, but really don't want to find out. The situation seems be hopeless. You are not a fighter, not even a rebel really. Whatever has chosen you as snack today will not meeting much resistance.<br/><br/>You cry. You are weak and some terrible predator is closer and there's nothing you can do. You desperately wish you weren't so weak, could muster some strength to at least go down fighting. If only you could be as strong as bear, but that wasn't possible.<br/><br/><br/><br/>Or was it?",
+    "options": [
+        {
+            "text":"Shapeshift",
+            "proceed":"walk/shapeshift_bear"
+        }
+    ]
+}

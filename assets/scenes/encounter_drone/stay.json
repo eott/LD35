@@ -1,0 +1,14 @@
+{
+    "name": "encounter_drone/stay",
+    "description": "The drone stops its descent and hovers in front of you. A speaker begins to play a prerecorded message:<br/><br/>\"Please stand still, citizen. Non-compliance will have consequences. We are investigating suspicious behaviour in this area. Please answer any question truthfully. Are you currently engaging in any illegal behaviour?\"<br/><br/>\"No.\"<br/><br/>\"Are you aware of any illegal behaviour happening right now in this area?\"<br/><br/>\"No.\"<br/><br/>\"Please present your ID.\"",
+    "options": [
+{
+            "text":"Show ID",
+            "proceed":"encounter_drone/stay_2"
+        },
+{
+            "text":"Deny carrying an ID",
+            "proceed":"encounter_drone/stay_deny"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "encounter_drone/waste_time",
+    "description": "You pace around the room trying to find a solution to the situation. You can't be sure the police is in fact after you, but you're also not sure there is nothing to worry about.<br/><br/>You don't know anyone where you could stay low, at least no one nearby. Besides, officers looking for you in physical reality is the least of your worries nowadays. One could avoid running into them and there probably is a way to get out from drone surveillance too. But that isn't one of yours skills and requires a lifestyle of many sacrifices.<br/><br/>Your musings are interrupted by knock on the door.",
+    "options": [
+        {
+            "text":"Stay silent",
+            "proceed":"encounter_drone/trapped"
+        }
+    ]
+}

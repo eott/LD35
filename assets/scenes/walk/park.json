@@ -1,0 +1,14 @@
+{
+    "name": "walk/park",
+    "description": "You enter the park on the eastern exit. There is the main path running straight from the eastern to the western exit and the quickest way to the downtown area.<br/><br/>You could also take a smaller side path leading in circuitous routes back to your neighborhood.",
+    "options": [
+        {
+            "text":"Head to the western exit",
+            "proceed":"walk/western_exit"
+        },
+{
+            "text":"Go back to the neighborhood",
+            "proceed":"walk/lurk"
+        }
+    ]
+}

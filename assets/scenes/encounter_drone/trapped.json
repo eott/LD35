@@ -1,0 +1,10 @@
+{
+    "name": "encounter_drone/trapped",
+    "description": "You hear a voice from the other side of the door:<br/><br/>\"Hello? This is the police. Is anybody home?\"<br/><br/>You stay silent, hoping they go away on their own.<br/><br/>\"If you can hear us, please open the door. We have probable cause to believe there might a fugitive hiding in this building.\"<br/><br/>Another voice says something, then the first answers:<br/><br/>\"Huh, okay. Well, works for me. If nobody's home, nobody will complain if we come in.\"<br/><br/>You hear them rattling the look, probably attaching a lock-breaker, which will pick the lock in seconds.<br/><br/>You begin to realize something terrible. This morning your suspicion level was raised to seven. Any encounter with an officer at level seven is a detainable offense, regardless of actual guilt. You heard what happens to people who are detained without immediate cause. Basically you will be transfered from facility to facility, staying only as long as some obscure law dictates, then the process begins anew. Only having a lawyer hired to bail you out will help with this and all lawyers take a hefty fee to stand by. Of course you don't have a lawyer.<br/><br/>You feel sick in your stomach and wish you were somewhere else. Or someone else. Someone who didn't have the same streak of bad luck. Someone with a more flexible morality, who didn't nose around in the past and maintained a low profile. Someone more like your mother.<br/><br/>If only you weren't taking after your father, who always got away with the legally questionable things he did. Not a criminal, oh no. But someone who didn't look away, who poked things to see what leaked out and wasn't afraid to get his hands dirty to look under the carpet and into the closet.<br/><br/>The only thing that would get you of this mess would be becoming so small you could hide in the air vents. But that wasn't exactly possible.<br/><br/><br/><br/><br/>Or was it?",
+    "options": [
+        {
+            "text":"Shapeshift",
+            "proceed":"encounter_drone/shapeshift_rat"
+        }
+    ]
+}

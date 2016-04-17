@@ -1,0 +1,14 @@
+{
+    "name": "apartment_beginning/program",
+    "description": "You boot your laptop and check the daily status report for the tubes' bandwidth. Apparantely the gods smile upon you at least once today, because it seems both the Aether Comission and the Ministry of Telecommunications approved a 5MBit connection for citizens of your class today.<br/><br/>With a slightly more cheery mood you check on the various news websites and social networks. Google released another Aether sniffer, big whoop. Your ex-coworker Andy or something got married to... a Lilith? Oh great, another one converted. Dronewatch reports approximately 7430 deaths yesterday, down from 8240 during the day before yesterday. There is a lot of discussion about changes in the reproduction policy, because some people seem to have still enough to feed another mouth.<br/><br/>Finally you notice a reminder that the umpteenth instance of that popular game jam is happening right now. With not much else to do you decide to take part. You set up a repo with the bare-bones structure of that game framework you wrote during college and have been using since. A bit of thinking later you select a main game mechanic and spin a decoy plot, which is as flimsy as it is vague und unspecific. Eh, it beats having nothing at all.<br/><br/>You log in to a chat room for the jam to chat up your fellow developers. Right as you join, two users are discussing the exact game you've been sketching in the past half hour. Both of their usernames begin with GBot. Annoyed and somewhat disgusted you Alt+F4 your way to the shutdown screen and close the laptop.<br/><br/>Well, that was a bust.",
+    "options": [
+        {
+            "text":"Go for a walk in the park",
+            "proceed":"walk/park"
+        },
+{
+            "text":"Lurk around the neighborhood",
+            "proceed":"walk/lurk"
+        }
+    ]
+}

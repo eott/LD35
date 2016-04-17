@@ -1,0 +1,21 @@
+{
+    "name": "apartment_beginning/breakfast",
+    "description": "There is not a lot of breakfastable material in your kitchen. Neither is there a lot of kitchen in your apartment or apartment in the building. Still you manage to stuff something in your mouth and swallow dutifully to keep living another day. Your brain complains that cheap carbohydrates do not suffice as nourishment for an adult, but is quickly silenced by your brain telling itself that there aren't exactly any other options available.<br/><br/>After keeping hunger at bay, you shower, put something on and sit down on your bed. For the last weeks this has been your routine every morning and there is not much more to the routine. You look over to a stack of newspapers and your laptop, but doubt that there a lot of new job offers since yesterday night. It's easy to keep up with a trickle and hard to outcompete about half the work-ready population.<br/><br/>You check on your finances and estimate that the food stamps will carry you over another week. Then there is another week which will need to be covered by savings and only then you can hope for another set of stamps. You idly muse that grazing animals would definitely have an advantage over omnivorous apes nowadays.<br/><br/>There is a knock on your door. You open it and see an officer scribbling on a notepad. You take a second to realize he just said something.",
+    "options": [
+        {
+            "text":"Good morning, Miss. Can I ask you a few questions?",
+            "proceed":"apartment_beginning/officer",
+            "effects": [{"action":"set","flag":"salutation","val":"f"}]
+        },
+{
+            "text":"Good day, Sir. I'm afraid I need to ask you a few questions.",
+            "proceed":"apartment_beginning/officer",
+            "effects": [{"action":"set","flag":"salutation","val":"m"}]
+        },
+{
+            "text":"Good morning. May I ask you a few questions?",
+            "proceed":"apartment_beginning/officer",
+            "effects": [{"action":"set","flag":"salutation","val":"u"}]
+        }
+    ]
+}

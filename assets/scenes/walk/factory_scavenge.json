@@ -1,0 +1,18 @@
+{
+    "name": "walk/factory_scavenge",
+    "description": "You find several small pieces of cut steel plate, some wooden sticks and blocks, an asortment of screws, nails and bolts, a screwdriver, a carpet knife and a convenient wooden box to carry everything. It's not exactly an engineer's wet dream, but maybe you can fix something in your apartment for cheap.<br/><br/>You return to your apartment and put the stuff to another box with a hodgepodge of things you liberated from their final resting place, the public ground.<br/><br/>It's not even noon and you once again ran out of things to do.",
+    "options": [
+        {
+            "text":"Sit down and stare at the wall",
+            "proceed":"apartment_beginning/stare"
+        },
+{
+            "text":"Go for a walk in the park",
+            "proceed":"walk/park"
+        },
+{
+            "text":"Boot up laptop and program",
+            "proceed":"apartment_beginning/program"
+        }
+    ]
+}

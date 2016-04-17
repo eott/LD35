@@ -1,0 +1,14 @@
+{
+    "name": "encounter_drone/stay_2",
+    "description": "You take your ID from your wallet and hold the side with the QR code up to the drone. The drone beeps, then plays another prerecorded message:<br/><br/>\"Thank you for complying with our requests. We have identified your ID belonging to Areana Avereaux. Is this correct?\"<br/><br/>You have no recollection of that name and it certainly isn't one you ever used.",
+    "options": [
+        {
+            "text":"Uh, no.",
+            "proceed":"encounter_drone/stay_3"
+        },
+{
+            "text":"Yes, that's me.",
+            "proceed":"encounter_drone/death"
+        }
+    ]
+}

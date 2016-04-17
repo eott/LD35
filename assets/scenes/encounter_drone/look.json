@@ -1,0 +1,14 @@
+{
+    "name": "encounter_drone/look",
+    "description": "You look up into the gray sky and see a shape descending down towards your position. It is a Beholder drone, the small version that doesn't stay in the sky for long. You estimate that you have a few seconds left before it's close enough that you are required to stand still and comply.",
+    "options": [
+        {
+            "text":"Sprint inside",
+            "proceed":"encounter_drone/hide"
+        },
+{
+            "text":"Stand still",
+            "proceed":"encounter_drone/stay"
+        }
+    ]
+}

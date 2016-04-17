@@ -1,0 +1,24 @@
+{
+    "name": "apartment_beginning/stare",
+    "description": "You stare at the wall. It looks like a wall.",
+    "options": [
+{
+            "text":"Go for a walk in the park",
+            "proceed":"walk/park"
+        },
+{
+            "text":"Lurk around the neighborhood",
+            "proceed":"walk/lurk"
+        },
+{
+            "text":"Continue staring at the wall",
+            "proceed":"apartment_beginning/stare2",
+            "effects": [{"action":"add","flag":"stareCount","val":"1"}]
+        },
+{
+            "text":"Ascend",
+            "proceed":"apartment_beginning/ascend",
+            "conditions": [{"flag":"stareCount","operator":">","val":"100"}]
+        }
+    ]
+}

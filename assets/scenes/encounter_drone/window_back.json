@@ -1,0 +1,14 @@
+{
+    "name": "encounter_drone/window_back",
+    "description": "You climb back inside and close the window. You'd rather risk your freedom than your life climbing down a death trap.",
+    "options": [
+        {
+            "text":"Try to calm down",
+            "proceed":"encounter_drone/waste_time"
+        },
+{
+            "text":"Pack backpack with essentials",
+            "proceed":"encounter_drone/pack"
+        }
+    ]
+}

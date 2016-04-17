@@ -1,0 +1,18 @@
+{
+    "name": "apartment_beginning/awake",
+    "description": "You awake one morning to the sound of heavy boots pounding on the floor board in the flat above yours. There is muffled shouting, several loud bangs and one distinct blood-curdling screeching sound that most definitely does not belong to the vocal range of ordinary mortals.<br>After several seconds only the pounding boots remain. Whatever was putting up a fight seems to be dead, disabled, knocked out or any combination of the three.<br><br>The landlord had warned you that the apartment complex had been the scene for several excorcisms in the recent months, but you are nowhere near a life situation where you can be picky about the roof over your head.<br/>You continue lying in the not-too-comfy bed for another few minutes, but you're unable to fall back to sleep. Eventually you peel away the blanket from your shivering body and start up into a cold november morning. Time for breakfast.",
+    "options": [
+        {
+            "text":"Cornflakes with water",
+            "proceed":"apartment_beginning/breakfast"
+        },
+{
+            "text":"Oatmeal with water",
+            "proceed":"apartment_beginning/breakfast"
+        },
+{
+            "text":"Coffee with self-loathing",
+            "proceed":"apartment_beginning/breakfast"
+        }
+    ]
+}

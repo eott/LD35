@@ -1,0 +1,18 @@
+{
+    "name": "encounter_drone/hide",
+    "description": "You run inside the apartment building, hoping the drone wasn't yet down on ground level. It's always a risk trying to avoid coming near them, but usually you can claim afterwards, that you simply did not notice it. The prevalence of headphones, hoodies and the ever downward look on the smartphone have turned dodging drones into something of a national sport.<br/><br/>Still a bit shaken you take the elevator up to the fifth floor. You walk to the apartment door and put a few more scratches in the lock's surface, trying to fit the counterfeit key into the lock. You neither have the original key nor the original lock. It's not like physical locks would keep a determined attacker out, but the effort scares off some government agents trying to better their salary with after-hours usage of the master keys.<br/><br/>As you open the door, you see a group of two officers, three crime scene investigators and an excorcist coming down from the staircase. It must be the group you overheard this morning, finishing cleaning up the mess that must have resulted. You close the door behind you and immediately put an ear to the door.<br/><br/>As the group walks by the door you hear a sentence fragment:<br/><br/>\"...in this building. Guess, it's right back to work, with...\"<br/><br/>Once the group is out of earshot you walk towards the window on a hunch. You can't see the front of the building where the drone may still be hovering, but you observe the street nonetheless. At first nothing is happening, but then you see a police car driving by slowly, probably intending to park somewhere.<br/><br/>You realize you might not be off the hook after all.",
+    "options": [
+        {
+            "text":"Try to calm down",
+            "proceed":"encounter_drone/waste_time"
+        },
+{
+            "text":"Pack backpack with essentials",
+            "proceed":"encounter_drone/pack"
+        },
+{
+            "text":"Climb out the window",
+            "proceed":"encounter_drone/window"
+        }
+    ]
+}

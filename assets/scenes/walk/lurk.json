@@ -1,0 +1,14 @@
+{
+    "name": "walk/lurk",
+    "description": "You walk around the neighborhood, without aim and both hands in the pockets. The same sights as usual bore you as usual and all the people you meet seem to do exactly the same. It's like a zombie apocalypse without the ravenous hunger for brains. Everyone just goes on living until things happen.<br/><br/>As you walk by a barber shop, you notice a group of youths across the street. They look looking for trouble, shifting around, hands clenched in the pockets. You are suddenly very uncomfortable out in the streets and try be as uninviting of trouble as possible. You manage to walk to the next corner without hearing sudden steps behind you. You go round the corner and begin running the moment you are out of sight of the group.<br/><br/>You run straight back to the apartment building. The other people in the streets are now avoiding you, because when someone is running, better watch out for what's following them. You arrive at the entrance, when you hear a buzzing sound.",
+    "options": [
+        {
+            "text":"Rush inside without looking",
+            "proceed":"encounter_drone/hide"
+        },
+{
+            "text":"Look up",
+            "proceed":"encounter_drone/look"
+        }
+    ]
+}

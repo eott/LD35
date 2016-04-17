@@ -1,0 +1,10 @@
+{
+    "name": "walk/western_exit",
+    "description": "There are not many other people in the park today. They mostly ignore each other and focus on whatever they're holding in their hands. Usually a smartphone, rarely a book, hopefully never a knife.<br/><br/>You arrive at the western exit in half an hour. The park is surrounded by a fence on this end, with an archway providing the only exit nearby. Past the archway there is an underpass beneath a highway exit, leading to the outer downtown area.<br/><br/>You hope there is no shifty group lurking in the underpass, as there they are wont to be. However the underpass seems to be empty today, with noone but you using it. Which is strange, because there were other people heading to the western exit. Most likely you simply walked faster than them, not burying your head into a medium of diversion.",
+    "options": [
+        {
+            "text":"Use the underpass",
+            "proceed":"walk/underpass"
+        }
+    ]
+}

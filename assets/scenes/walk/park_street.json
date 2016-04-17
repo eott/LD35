@@ -1,0 +1,10 @@
+{
+    "name": "walk/park_street",
+    "description": "You enter the park on a small side path you discovered some time back. When the park was built, the designers surely had great plans for its recreational ability and added lots of small winding paths that took the visitors through the woods and meadows. Their design choices agree with you.<br/><br/>The small path you're walking on leads you to the biggest path in the park, running the span from the eastern to the western exit and the quickest way to the downtown area.",
+    "options": [
+        {
+            "text":"Head to the western exit",
+            "proceed":"walk/western_exit"
+        }
+    ]
+}

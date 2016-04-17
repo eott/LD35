@@ -1,0 +1,11 @@
+{
+    "name": "walk/factory",
+    "description": "You walk on the gravel path near a small river seperating the factory complex from the residential area where you live. Getting here as already calmed you down somewhat, but you decide to get a look around the complex before it becomes off-limits.<br/><br/>Near the entrance you notice other people lurking around the area. They all seem to look for anything remotely valuable without looking like looters. You notice that the average person is terrible at pretending not to do what they are so obviously doing.<br/><br/>For your that means that you are less suspicious than walking around on your own. You enter the complex and veer right towards an area where coils of steel sheet used to be cut into plates.",
+    "options": [
+        {
+            "text":"Scavenge for scraps",
+            "proceed":"walk/factory_scavenge",
+            "effects": [{"action":"set","flag":"hasScrap","val":"true"}]
+        }
+    ]
+}
